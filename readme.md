@@ -4,7 +4,7 @@ Sulla base di queste informazioni dovrà calcolare il prezzo totale del viaggio,
 
 - il prezzo del biglietto è definito in base ai km (0.21 € al km)
 - va applicato uno sconto del 20% per i minorenni
-- va applicato uno sconto del 40% per gli over 65 (fortunelli :adulto_anziano:).
+- va applicato uno sconto del 40% per gli over 65.
 
 
 # Steps
@@ -20,4 +20,7 @@ Altrimenti se over 65 uno sconto del 40%
  # Tools
  - prompt 
  - const
- 
+ - operatore di comparazione 
+ - alert
+ - console.log
+
